@@ -1,0 +1,15 @@
+name: grid_search
+description: The Grid Search
+version: 0.0.1
+homepage: https://www.hackerrank.com/challenges/the-grid-search/problem
+publish_to: 'none'
+
+environment:
+  sdk: '>=2.16.0'
+
+dependencies:
+  meta: ^1.7.0
+
+dev_dependencies:
+  lints: ^1.0.0
+  test: ^1.16.0
